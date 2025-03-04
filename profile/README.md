@@ -1,6 +1,6 @@
 
 
-Доска с архитектурой - https://app.mural.co/t/mobile30925/m/mobile30925/1740597369382/91a5e748c68b3d6799fce5414190293edab4906f
+![изображение](https://github.com/user-attachments/assets/1d76a4ae-aaeb-44cc-acd4-789f04c3d480)
 
 
 
