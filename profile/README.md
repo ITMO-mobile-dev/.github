@@ -1,12 +1,25 @@
-## Hi there 👋
 
-<!--
 
-**Here are some ideas to get you started:**
+Доска с архитектурой - https://app.mural.co/t/mobile30925/m/mobile30925/1740597369382/91a5e748c68b3d6799fce5414190293edab4906f
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+
+## How to contribute
+
+```
+git pull https://github.com/ITMO-mobile-dev/android-app.git
+git switch -c dev-task-{number}
+git add .
+git commit -m "... Task #{number}"
+git push origin dev-task-{number}
+```
+Create your Pull Request via GitHub UI
+
+## How not to spam commits during code review
+Fix problems
+ ```
+git add .
+git commit --amend
+git push -f origin dev-task-{number}
+```
+
