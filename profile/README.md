@@ -1,4 +1,13 @@
 
+предпочтительные версии
+
+
+jdk - 22
+gradle - 8.10
+kotlin-version = "2.1.10"
+ktor-version = "3.1.1"
+logback-version = "1.4.14"
+postgres-version = "42.7.2"
 
 ![изображение](https://github.com/user-attachments/assets/1d76a4ae-aaeb-44cc-acd4-789f04c3d480)
 
